@@ -1,4 +1,4 @@
-package annalynsinfiltration;
+package annalyns_infiltration;
 
 class AnnalynsInfiltration {
     public static boolean canFastAttack(boolean knightIsAwake) {
